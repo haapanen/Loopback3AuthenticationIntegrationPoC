@@ -1,0 +1,7 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "sqlite3",
+    "file": "loopback.db"
+  }
+}
